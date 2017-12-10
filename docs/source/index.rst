@@ -1,7 +1,7 @@
 Biological Artificial Neural Network
 ====================================
 
-
+.. image:: images/chart.png
 
 
 .. toctree::
@@ -14,9 +14,9 @@ Biological Artificial Neural Network
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. Indices and tables
+.. ==================
+..
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
