@@ -1,7 +1,7 @@
 Biological Artificial Neural Network
 ====================================
 
-.. image:: images/chart.png
+.. image:: images/chart_general.png
 
 
 .. toctree::

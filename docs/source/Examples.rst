@@ -7,6 +7,7 @@ Goal
 ****
 The goal for this exaple was to create posters. The training data was fetched from https://trendlist.org
 
+
 Nodes
 *****
 
@@ -102,6 +103,8 @@ The Progress Tracker got the following instructions:
   The results will be x correct guesses out of 8 images. You will also have to track the progress between sets.
 Session
 ******
+.. image:: images/chart.png
+
 The session was made up of 5 sets::
 
   2 min Reading phase
@@ -137,9 +140,6 @@ The session was made up of 5 sets::
   2 min Evaluating
   1 min Progress Tracking
 
-  2 min Reading phase
-  2 min Training phase
-
   2 min Pre-set-preparation
   4 min set 3
     30 sec round 1
@@ -154,9 +154,6 @@ The session was made up of 5 sets::
   2 min Evaluating
   1 min Progress Tracking
 
-  2 min Reading phase
-  2 min Training phase
-
   2 min Pre-set-preparation
   4 min set 4
     30 sec round 1
@@ -170,9 +167,6 @@ The session was made up of 5 sets::
   2 min Data sorting and normalization
   2 min Evaluating
   1 min Progress Tracking
-
-  2 min Reading phase
-  2 min Training phase
 
   2 min Pre-set-preparation
   4 min set 5
@@ -199,57 +193,57 @@ Images
 Set 1
 ^^^^^
 .. image:: images/poster/set1/1.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set1/2.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set1/3.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set1/4.jpg
-   :width: 400 px
+   :width: 250 px
 
 
 Set 2
 ^^^^^
 .. image:: images/poster/set2/1.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set2/2.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set2/3.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set2/4.jpg
-   :width: 400 px
+   :width: 250 px
 Set 3
 ^^^^^
 .. image:: images/poster/set3/1.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set3/2.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set3/3.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set3/4.jpg
-   :width: 400 px
+   :width: 250 px
 
 Set 4
 ^^^^^
 .. image:: images/poster/set4/1.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set4/2.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set4/3.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set4/4.jpg
-   :width: 400 px
+   :width: 250 px
 
 Set 5
 ^^^^^
 .. image:: images/poster/set5/1.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set5/2.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set5/3.jpg
-   :width: 400 px
+   :width: 250 px
 .. image:: images/poster/set5/4.jpg
-   :width: 400 px
+   :width: 250 px
 
 Video
 -----
@@ -265,6 +259,8 @@ Creator nodes
 -------------
 System
 ******
+.. image:: images/chart_gondola.png
+
 Results
 *******
 Images
