@@ -103,87 +103,155 @@ The Progress Tracker got the following instructions:
 Session
 ******
 The session was made up of 5 sets::
-  
-  Reading phase	-	2 minutes
-  Training phase	-	2 minutes
 
-  Pre-set-preparation	2 minutes
-  set -	4 minutes
-  - round 1	-	30 seconds
-  - break	-	30 seconds
-  - round 2	-	30 seconds
-  - break	-	30 seconds
-  - round 3	-	30 seconds
-  - break	-	30 seconds
-  - round 4	-	30 seconds
-  - break	-	30 seconds
-  Data sorting and normalization - 2 minutes
-  Evaluating - 2 minutes
-  Progress Tracking - 1 minute
+  Reading phase	     2 minutes
+  Training phase	      2 minutes
 
-  Pre-set-preparation	2 minutes
-  set -	4 minutes
-  - round 1	-	30 seconds
-  - break	-	30 seconds
-  - round 2	-	30 seconds
-  - break	-	30 seconds
-  - round 3	-	30 seconds
-  - break	-	30 seconds
-  - round 4	-	30 seconds
-  - break	-	30 seconds
-  Data sorting and normalization - 2 minutes
-  Evaluating - 2 minutes
-  Progress Tracking - 1 minute
+  Pre-set-preparation     2 minutes
+  set -     4 minutes
+    round 1   30 seconds
+    break	   30 seconds
+    round 2   30 seconds
+    break    30 seconds
+    round 3   30 seconds
+    break    30 seconds
+    round 4   30 seconds
+    break    30 seconds
+  Data sorting and normalization       2 minutes
+  Evaluating       2 minutes
+  Progress Tracking      1 minute
 
-  Pre-set-preparation	2 minutes
-  set -	4 minutes
-  - round 1	-	30 seconds
-  - break	-	30 seconds
-  - round 2	-	30 seconds
-  - break	-	30 seconds
-  - round 3	-	30 seconds
-  - break	-	30 seconds
-  - round 4	-	30 seconds
-  - break	-	30 seconds
-  Data sorting and normalization - 2 minutes
-  Evaluating - 2 minutes
-  Progress Tracking - 1 minute
+  Pre-set-preparation     2 minutes
+  set -     4 minutes
+    round 1   30 seconds
+    break	   30 seconds
+    round 2   30 seconds
+    break    30 seconds
+    round 3   30 seconds
+    break    30 seconds
+    round 4   30 seconds
+    break    30 seconds
+  Data sorting and normalization       2 minutes
+  Evaluating       2 minutes
+  Progress Tracking      1 minute
 
-  Pre-set-preparation	2 minutes
-  set -	4 minutes
-  - round 1	-	30 seconds
-  - break	-	30 seconds
-  - round 2	-	30 seconds
-  - break	-	30 seconds
-  - round 3	-	30 seconds
-  - break	-	30 seconds
-  - round 4	-	30 seconds
-  - break	-	30 seconds
-  Data sorting and normalization - 2 minutes
-  Evaluating - 2 minutes
-  Progress Tracking - 1 minute
+  Pre-set-preparation     2 minutes
+  set -     4 minutes
+    round 1   30 seconds
+    break	   30 seconds
+    round 2   30 seconds
+    break    30 seconds
+    round 3   30 seconds
+    break    30 seconds
+    round 4   30 seconds
+    break    30 seconds
+  Data sorting and normalization       2 minutes
+  Evaluating       2 minutes
+  Progress Tracking      1 minute
 
-  Pre-set-preparation	2 minutes
-  set -	4 minutes
-  - round 1	-	30 seconds
-  - break	-	30 seconds
-  - round 2	-	30 seconds
-  - break	-	30 seconds
-  - round 3	-	30 seconds
-  - break	-	30 seconds
-  - round 4	-	30 seconds
-  - break	-	30 seconds
-  Data sorting and normalization - 2 minutes
-  Evaluating - 2 minutes
-  Progress Tracking - 1 minute
+  Pre-set-preparation     2 minutes
+  set -     4 minutes
+    round 1   30 seconds
+    break	   30 seconds
+    round 2   30 seconds
+    break    30 seconds
+    round 3   30 seconds
+    break    30 seconds
+    round 4   30 seconds
+    break    30 seconds
+  Data sorting and normalization       2 minutes
+  Evaluating       2 minutes
+  Progress Tracking      1 minute
+
+  Pre-set-preparation     2 minutes
+  set -     4 minutes
+    round 1   30 seconds
+    break	   30 seconds
+    round 2   30 seconds
+    break    30 seconds
+    round 3   30 seconds
+    break    30 seconds
+    round 4   30 seconds
+    break    30 seconds
+  Data sorting and normalization       2 minutes
+  Evaluating       2 minutes
+  Progress Tracking      1 minute
 
 
 Results
 *******
 Images
 ------
+
+Set 1
+^^^^^
+.. image:: images/set1/1.jpg
+   :width: 200 px
+.. image:: images/set1/2.jpg
+   :width: 200 px
+.. image:: images/set1/3.jpg
+   :width: 200 px
+.. image:: images/set1/4.jpg
+   :width: 200 px
+.. image:: images/set1/5.jpg
+   :width: 200 px
+
+
+Set 2
+^^^^^
+.. image:: images/set2/1.jpg
+   :width: 200 px
+.. image:: images/set2/2.jpg
+   :width: 200 px
+.. image:: images/set2/3.jpg
+   :width: 200 px
+.. image:: images/set2/4.jpg
+   :width: 200 px
+.. image:: images/set2/5.jpg
+   :width: 200 px
+Set 3
+^^^^^
+.. image:: images/set3/1.jpg
+   :width: 200 px
+.. image:: images/set3/2.jpg
+   :width: 200 px
+.. image:: images/set3/3.jpg
+   :width: 200 px
+.. image:: images/set3/4.jpg
+   :width: 200 px
+.. image:: images/set3/5.jpg
+   :width: 200 px
+
+Set 4
+^^^^^
+.. image:: images/set4/1.jpg
+   :width: 200 px
+.. image:: images/set4/2.jpg
+   :width: 200 px
+.. image:: images/set4/3.jpg
+   :width: 200 px
+.. image:: images/set4/4.jpg
+   :width: 200 px
+.. image:: images/set4/5.jpg
+   :width: 200 px
+
+Set 5
+^^^^^
+.. image:: images/set5/1.jpg
+   :width: 200 px
+.. image:: images/set5/2.jpg
+   :width: 200 px
+.. image:: images/set5/3.jpg
+   :width: 200 px
+.. image:: images/set5/4.jpg
+   :width: 200 px
+.. image:: images/set5/5.jpg
+   :width: 200 px
+
 Video
 -----
+
+
 Gondola drawing
 ###############
 Goal
