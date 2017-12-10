@@ -185,67 +185,67 @@ Images
 
 Set 1
 ^^^^^
-.. image:: images/set1/1.jpg
+.. image:: images/poster/set1/1.jpg
    :width: 200 px
-.. image:: images/set1/2.jpg
+.. image:: images/poster/set1/2.jpg
    :width: 200 px
-.. image:: images/set1/3.jpg
+.. image:: images/poster/set1/3.jpg
    :width: 200 px
-.. image:: images/set1/4.jpg
+.. image:: images/poster/set1/4.jpg
    :width: 200 px
-.. image:: images/set1/5.jpg
+.. image:: images/poster/set1/5.jpg
    :width: 200 px
 
 
 Set 2
 ^^^^^
-.. image:: images/set2/1.jpg
+.. image:: images/poster/set2/1.jpg
    :width: 200 px
-.. image:: images/set2/2.jpg
+.. image:: images/poster/set2/2.jpg
    :width: 200 px
-.. image:: images/set2/3.jpg
+.. image:: images/poster/set2/3.jpg
    :width: 200 px
-.. image:: images/set2/4.jpg
+.. image:: images/poster/set2/4.jpg
    :width: 200 px
-.. image:: images/set2/5.jpg
+.. image:: images/poster/set2/5.jpg
    :width: 200 px
 Set 3
 ^^^^^
-.. image:: images/set3/1.jpg
+.. image:: images/poster/set3/1.jpg
    :width: 200 px
-.. image:: images/set3/2.jpg
+.. image:: images/poster/set3/2.jpg
    :width: 200 px
-.. image:: images/set3/3.jpg
+.. image:: images/poster/set3/3.jpg
    :width: 200 px
-.. image:: images/set3/4.jpg
+.. image:: images/poster/set3/4.jpg
    :width: 200 px
-.. image:: images/set3/5.jpg
+.. image:: images/poster/set3/5.jpg
    :width: 200 px
 
 Set 4
 ^^^^^
-.. image:: images/set4/1.jpg
+.. image:: images/poster/set4/1.jpg
    :width: 200 px
-.. image:: images/set4/2.jpg
+.. image:: images/poster/set4/2.jpg
    :width: 200 px
-.. image:: images/set4/3.jpg
+.. image:: images/poster/set4/3.jpg
    :width: 200 px
-.. image:: images/set4/4.jpg
+.. image:: images/poster/set4/4.jpg
    :width: 200 px
-.. image:: images/set4/5.jpg
+.. image:: images/poster/set4/5.jpg
    :width: 200 px
 
 Set 5
 ^^^^^
-.. image:: images/set5/1.jpg
+.. image:: images/poster/set5/1.jpg
    :width: 200 px
-.. image:: images/set5/2.jpg
+.. image:: images/poster/set5/2.jpg
    :width: 200 px
-.. image:: images/set5/3.jpg
+.. image:: images/poster/set5/3.jpg
    :width: 200 px
-.. image:: images/set5/4.jpg
+.. image:: images/poster/set5/4.jpg
    :width: 200 px
-.. image:: images/set5/5.jpg
+.. image:: images/poster/set5/5.jpg
    :width: 200 px
 
 Video
