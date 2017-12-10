@@ -103,6 +103,7 @@ The Progress Tracker got the following instructions:
 Session
 ******
 The session was made up of 5 sets::
+  
   Reading phase	-	2 minutes
   Training phase	-	2 minutes
 
