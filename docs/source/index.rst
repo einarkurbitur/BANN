@@ -5,12 +5,13 @@ Biological Artificial Neural Network
 
 
 .. toctree::
-   :maxdepth: 6
+   :maxdepth: 3
 
    Overview
    Dictionary
    Nodes
    Examples
+   License
 
 
 

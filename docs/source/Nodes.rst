@@ -3,7 +3,7 @@ Nodes
 
 Data Sorter
 ***********
-Sorts the data by splitting it down into training data for the creators. The data sorter also normalizes the output data from the creators and mixes it with existing data that then goes to the Evaluator
+Sorts the data by splitting it down into training data for the creators. The data sorter also normalizes the output data from the creators and mixes it with existing data that then goes to the Evaluator.
 
 
 Creator

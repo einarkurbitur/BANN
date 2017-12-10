@@ -104,78 +104,91 @@ Session
 ******
 The session was made up of 5 sets::
 
-  Reading phase	     2 minutes
-  Training phase	      2 minutes
+  2 min Reading phase
+  2 min Training phase
 
-  Pre-set-preparation     2 minutes
-  set -     4 minutes
-    round 1   30 seconds
-    break	   30 seconds
-    round 2   30 seconds
-    break    30 seconds
-    round 3   30 seconds
-    break    30 seconds
-    round 4   30 seconds
-    break    30 seconds
-  Data sorting and normalization       2 minutes
-  Evaluating       2 minutes
-  Progress Tracking      1 minute
+  2 min Pre-set-preparation
+  4 min set 1
+    30 sec round 1
+    30 sec break
+    30 sec round 2
+    30 sec break
+    30 sec round 3
+    30 sec break
+    30 sec round 4
+    30 sec break
+  2 min Data sorting and normalization
+  2 min Evaluating
+  1 min Progress Tracking
+  2 min Reading phase
+  2 min Training phase
 
-  Pre-set-preparation     2 minutes
-  set -     4 minutes
-    round 1   30 seconds
-    break	   30 seconds
-    round 2   30 seconds
-    break    30 seconds
-    round 3   30 seconds
-    break    30 seconds
-    round 4   30 seconds
-    break    30 seconds
-  Data sorting and normalization       2 minutes
-  Evaluating       2 minutes
-  Progress Tracking      1 minute
+  2 min Pre-set-preparation
+  4 min set 2
+    30 sec round 1
+    30 sec break
+    30 sec round 2
+    30 sec break
+    30 sec round 3
+    30 sec break
+    30 sec round 4
+    30 sec break
+  2 min Data sorting and normalization
+  2 min Evaluating
+  1 min Progress Tracking
 
-  Pre-set-preparation     2 minutes
-  set -     4 minutes
-    round 1   30 seconds
-    break	   30 seconds
-    round 2   30 seconds
-    break    30 seconds
-    round 3   30 seconds
-    break    30 seconds
-    round 4   30 seconds
-    break    30 seconds
-  Data sorting and normalization       2 minutes
-  Evaluating       2 minutes
-  Progress Tracking      1 minute
+  2 min Reading phase
+  2 min Training phase
 
-  Pre-set-preparation     2 minutes
-  set -     4 minutes
-    round 1   30 seconds
-    break	   30 seconds
-    round 2   30 seconds
-    break    30 seconds
-    round 3   30 seconds
-    break    30 seconds
-    round 4   30 seconds
-    break    30 seconds
-  Data sorting and normalization       2 minutes
-  Evaluating       2 minutes
-  Progress Tracking      1 minute
+  2 min Pre-set-preparation
+  4 min set 3
+    30 sec round 1
+    30 sec break
+    30 sec round 2
+    30 sec break
+    30 sec round 3
+    30 sec break
+    30 sec round 4
+    30 sec break
+  2 min Data sorting and normalization
+  2 min Evaluating
+  1 min Progress Tracking
 
-  Pre-set-preparation     2 minutes
-  set -     4 minutes
-    round 1   30 seconds
-    break	   30 seconds
-    round 2   30 seconds
-    break    30 seconds
-    round 3   30 seconds
-    break    30 seconds
-    round 4   30 seconds
-    break    30 seconds
-  Data sorting and normalization       2 minutes
-  Evaluating       2 minutes
-  Progress Tracking      1 minute
+  2 min Reading phase
+  2 min Training phase
+
+  2 min Pre-set-preparation
+  4 min set 4
+    30 sec round 1
+    30 sec break
+    30 sec round 2
+    30 sec break
+    30 sec round 3
+    30 sec break
+    30 sec round 4
+    30 sec break
+  2 min Data sorting and normalization
+  2 min Evaluating
+  1 min Progress Tracking
+
+  2 min Reading phase
+  2 min Training phase
+
+  2 min Pre-set-preparation
+  4 min set 5
+    30 sec round 1
+    30 sec break
+    30 sec round 2
+    30 sec break
+    30 sec round 3
+    30 sec break
+    30 sec round 4
+    30 sec break
+  2 min Data sorting and normalization
+  2 min Evaluating
+  1 min Progress Tracking
+
+
 
 
 Results
@@ -186,67 +199,57 @@ Images
 Set 1
 ^^^^^
 .. image:: images/poster/set1/1.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set1/2.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set1/3.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set1/4.jpg
-   :width: 200 px
-.. image:: images/poster/set1/5.jpg
-   :width: 200 px
+   :width: 400 px
 
 
 Set 2
 ^^^^^
 .. image:: images/poster/set2/1.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set2/2.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set2/3.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set2/4.jpg
-   :width: 200 px
-.. image:: images/poster/set2/5.jpg
-   :width: 200 px
+   :width: 400 px
 Set 3
 ^^^^^
 .. image:: images/poster/set3/1.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set3/2.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set3/3.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set3/4.jpg
-   :width: 200 px
-.. image:: images/poster/set3/5.jpg
-   :width: 200 px
+   :width: 400 px
 
 Set 4
 ^^^^^
 .. image:: images/poster/set4/1.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set4/2.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set4/3.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set4/4.jpg
-   :width: 200 px
-.. image:: images/poster/set4/5.jpg
-   :width: 200 px
+   :width: 400 px
 
 Set 5
 ^^^^^
 .. image:: images/poster/set5/1.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set5/2.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set5/3.jpg
-   :width: 200 px
+   :width: 400 px
 .. image:: images/poster/set5/4.jpg
-   :width: 200 px
-.. image:: images/poster/set5/5.jpg
-   :width: 200 px
+   :width: 400 px
 
 Video
 -----

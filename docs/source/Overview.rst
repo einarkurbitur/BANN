@@ -1,51 +1,23 @@
 Overview
 ========
-
-**Session**
-
-* A session is an execution of the system, from reading phase to the end of the last set.
-
-
-**Reading phase**
-
-* The period at the beginning of a session where the nodes read their instructions.
+What is it?
+***********
+Biological Artificial Neural Network is a research project by Einar Andersen.
 
 
-**Training phase**
-
-* the period betefore a set where creators and evaluators examine and learn from the training data.
 
 
-**Pre-set-preparation**
+How does it work?
+*****************
+.. image:: images/chart_general.png
 
-* A period before a set where the nodes gather extra data to use in the next round. This can be used for gathering fonts, imagery, setting up color palettes etc. from the internet or other people.
-
-
-**Set**
-
-* A set is the time period that is used for creating. It is divided into rounds equal to the number of creator nodes (so each creation gets touched by each creator).
-
-
-**Round**
-
-* A round is the time period that the creator nodes do their job.
-
-
-**Break**
-
-* A time period between rounds that is used to transfer creation between nodes.
-
-
-**Data sorting and normalization**
-
-* A time period where the data sorter makes all the creations the same format. An example would be to make them all .jpg and 500px wide.
-
-
-**Evaluating**
-
-* A period where the Evaluator does their job. The length of the evaluating is 15 seconds multiplied by the number of images in the evaluation folder.
-
-
-**Progress Tracking**
-
-* A 1 minute period where the progress tracker does their job.
+#. The network is gathered and the controller selects what the network will create
+#. The data sorter starts gathering data and splitting it into appropriate folders
+#. Reading phase starts.
+#. Training phase starts.
+#. Pre-Set preparation starts.
+#. Set 1 starts, with rounds equal to the amount of creator nodes in the network.
+#. After the set the Data sorter gathers the output from the creators, adds an equal amount of data from existing source and makes all the files the same size and format. The Data sorter then gives his data to the Evaluator
+#. Evaluating
+#. Progress Tracking
+#. Step 5 - 9 is then repeated as often as desired.
