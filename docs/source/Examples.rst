@@ -6,7 +6,7 @@ Poster design
 Goal
 ****
 Nodes
-=====
+*****
 Data Sorter
 -----------
 Creator Nodes
@@ -24,9 +24,9 @@ Evaluator
 Progress Tracker
 ----------------
 System
-======
+******
 Results
-=======
+*******
 Images
 ------
 Video
@@ -36,13 +36,13 @@ Gondola drawing
 Goal
 ****
 Nodes
-=====
+*****
 Creator nodes
 -------------
 System
-======
+******
 Results
-=======
+*******
 Images
 ------
 Video
