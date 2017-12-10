@@ -5,12 +5,14 @@ Poster design
 #############
 Goal
 ****
-The goal for this exaple was to create posters. The training data was fetched from _a link: https://trendlist.org
+The goal for this exaple was to create posters. The training data was fetched from https://trendlist.org
+
 Nodes
 *****
+
 Data Sorter
 -----------
-The Data sorter got the following instructions::
+The Data sorter got the following instructions:
   You have been assigned to be a data sorter. You sort the data by splitting it down into training data for the creators. You then feeds the data to the creators and the evaluator. In this case we are going to be designing a poster with 4 creation nodes. A way to split the data (posters) into 4 parts would be to isolate the image content and color, typographic position, typefaces, and content.
 
   After each set your job is to gather the 4 results from the content creators and combining it with 4 existing posters to give to the evaluator. You also have to normalize the data, so make each poster 500px wide. When the data is normalized move it into a folder called Evaluation.
@@ -21,7 +23,7 @@ Creator Nodes
 -------------
 Creator 1
 ^^^^^^^^^
-The Creator 1 got the following instructions::
+The Creator 1 got the following instructions:
   Your job is to analyze the training data and then create a poster based on the data. Your main goal is to trick the Evaluator into thinking your creation is authentic. You can copy the elements from the training data, but the Evaluator gets the same data so he can spot direct copies.
 
   You get the job of deciding the typographic position. Your job is to only position the text boxes and the text sizes. You do NOT decide the content, colors or typefaces
@@ -33,7 +35,7 @@ The Creator 1 got the following instructions::
 
 Creator 2
 ^^^^^^^^^
-The Creator 2 got the following instructions::
+The Creator 2 got the following instructions:
   Your job is to analyze the training data and then create a poster based on the data. Your main goal is to trick the Evaluator into thinking your creation is authentic. You can copy the elements from the training data, but the Evaluator gets the same data so he can spot direct copies.
 
   You get the job of deciding the typeface(s). Your job is to only create paragraph styles with the typeface(s) and all modifications related to it.You do NOT decide the content, colors or the typographic position of the text boxes and the size of the typeface.
@@ -45,7 +47,7 @@ The Creator 2 got the following instructions::
 
 Creator 3
 ^^^^^^^^^
-The Creator 3 got the following instructions::
+The Creator 3 got the following instructions:
   Your job is to analyze the training data and then create a poster based on the data. Your main goal is to trick the Evaluator into thinking your creation is authentic. You can copy the elements from the training data, but the Evaluator gets the same data so he can spot direct copies.
 
   You get the job of create the typographic content(text). Your job is to only create the text.You do NOT decide the image content, colors,typographic position of the text boxes and the size of the typeface or the typefaces.
@@ -57,7 +59,7 @@ The Creator 3 got the following instructions::
 
 Creator 4
 ^^^^^^^^^
-The Creator 4 got the following instructions::
+The Creator 4 got the following instructions:
   Your job is to analyze the training data and then create a poster based on the data. Your main goal is to trick the Evaluator into thinking your creation is authentic. You can copy the elements from the training data, but the Evaluator gets the same data so he can spot direct copies.
 
   You get the job of deciding the colors of the poster and image content if needed.You do NOT decide the text content, typefaces, or the typographic position of the text boxes and the size of the typeface.
@@ -69,32 +71,32 @@ The Creator 4 got the following instructions::
 
 Evaluator
 ---------
-The Evaluator got the following instructions::
+The Evaluator got the following instructions:
   Your job is to analyze the data you are given.
   You will then after each set tag each image(right click on the file) with either of the following three colors:
 
-  Red: 
+  **Red:**
   It is obvious that this image was created by the creator nodes and it is not up to standards.
 
-  Orange:
+  **Orange:**
   You are not sure if it is created by the network or if it's from the training set
 
-  Green:
+  **Green:**
   This image is up to standards and is in many cases from the training set.
 
 Progress Tracker
 ----------------
-The Progress Tracker got the following instructions::
+The Progress Tracker got the following instructions:
   Your job is to analyze the results from the Evaluator.
   You will have to log down how well the Evaluator is at guessing correctly if the images are created by the creators or if they come from the dataset. He will label the files with the following colors:
 
-  Red:
+  **Red:**
   It is obvious that this image was created by the creator nodes and it is not up to standards.
 
-  Orange:
+  **Orange:**
   You are not sure if it is created by the network or if it’s from the training set
 
-  Green:
+  **Green:**
   This image is up to standards and is in many cases from the training set.
 
   The results will be x correct guesses out of 8 images. You will also have to track the progress between sets.
@@ -106,71 +108,71 @@ The session was made up of 5 sets::
 
   Pre-set-preparation	2 minutes
   set -	4 minutes
-  	round 1	-	30 seconds
-  	break	-	30 seconds
-  	round 2	-	30 seconds
-  	break	-	30 seconds
-  	round 3	-	30 seconds
-  	break	-	30 seconds
-  	round 4	-	30 seconds
-  	break	-	30 seconds
-  Data sorting and normalization - 1 minutes
+  - round 1	-	30 seconds
+  - break	-	30 seconds
+  - round 2	-	30 seconds
+  - break	-	30 seconds
+  - round 3	-	30 seconds
+  - break	-	30 seconds
+  - round 4	-	30 seconds
+  - break	-	30 seconds
+  Data sorting and normalization - 2 minutes
   Evaluating - 2 minutes
   Progress Tracking - 1 minute
 
   Pre-set-preparation	2 minutes
   set -	4 minutes
-  	round 1	-	30 seconds
-  	break	-	30 seconds
-  	round 2	-	30 seconds
-  	break	-	30 seconds
-  	round 3	-	30 seconds
-  	break	-	30 seconds
-  	round 4	-	30 seconds
-  	break	-	30 seconds
-  Data sorting and normalization - 1 minutes
+  - round 1	-	30 seconds
+  - break	-	30 seconds
+  - round 2	-	30 seconds
+  - break	-	30 seconds
+  - round 3	-	30 seconds
+  - break	-	30 seconds
+  - round 4	-	30 seconds
+  - break	-	30 seconds
+  Data sorting and normalization - 2 minutes
   Evaluating - 2 minutes
   Progress Tracking - 1 minute
 
   Pre-set-preparation	2 minutes
   set -	4 minutes
-  	round 1	-	30 seconds
-  	break	-	30 seconds
-  	round 2	-	30 seconds
-  	break	-	30 seconds
-  	round 3	-	30 seconds
-  	break	-	30 seconds
-  	round 4	-	30 seconds
-  	break	-	30 seconds
-  Data sorting and normalization - 1 minutes
+  - round 1	-	30 seconds
+  - break	-	30 seconds
+  - round 2	-	30 seconds
+  - break	-	30 seconds
+  - round 3	-	30 seconds
+  - break	-	30 seconds
+  - round 4	-	30 seconds
+  - break	-	30 seconds
+  Data sorting and normalization - 2 minutes
   Evaluating - 2 minutes
   Progress Tracking - 1 minute
 
   Pre-set-preparation	2 minutes
   set -	4 minutes
-  	round 1	-	30 seconds
-  	break	-	30 seconds
-  	round 2	-	30 seconds
-  	break	-	30 seconds
-  	round 3	-	30 seconds
-  	break	-	30 seconds
-  	round 4	-	30 seconds
-  	break	-	30 seconds
-  Data sorting and normalization - 1 minutes
+  - round 1	-	30 seconds
+  - break	-	30 seconds
+  - round 2	-	30 seconds
+  - break	-	30 seconds
+  - round 3	-	30 seconds
+  - break	-	30 seconds
+  - round 4	-	30 seconds
+  - break	-	30 seconds
+  Data sorting and normalization - 2 minutes
   Evaluating - 2 minutes
   Progress Tracking - 1 minute
 
   Pre-set-preparation	2 minutes
   set -	4 minutes
-  	round 1	-	30 seconds
-  	break	-	30 seconds
-  	round 2	-	30 seconds
-  	break	-	30 seconds
-  	round 3	-	30 seconds
-  	break	-	30 seconds
-  	round 4	-	30 seconds
-  	break	-	30 seconds
-  Data sorting and normalization - 1 minutes
+  - round 1	-	30 seconds
+  - break	-	30 seconds
+  - round 2	-	30 seconds
+  - break	-	30 seconds
+  - round 3	-	30 seconds
+  - break	-	30 seconds
+  - round 4	-	30 seconds
+  - break	-	30 seconds
+  Data sorting and normalization - 2 minutes
   Evaluating - 2 minutes
   Progress Tracking - 1 minute
 
