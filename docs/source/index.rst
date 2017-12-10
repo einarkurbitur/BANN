@@ -4,8 +4,7 @@ Biological Artificial Neural Network
 Another simple header
 =====================
 
-Here is some text.::
-    print 'hello'
+
 
 
 Guide:
