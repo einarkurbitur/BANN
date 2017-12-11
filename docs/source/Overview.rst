@@ -2,8 +2,6 @@ Overview
 ========
 What is it?
 ***********
-BANN
-
 Society is on the verge of a lot of change, with the increasing connection we have with technology and the Internet. With the democratization of graphic design, a lot of new "unskilled" people are now suddenly graphic designers. This in terms has turned a lot of design into a mime, "an idea, behavior, or style that spreads from person to person within a culture", with endless similar posters, website, and book designs on websites like Trendlist. A repetitive task that is best suited to machines. But what if, instead of modeling computers after us like Artifical Neural Networks, we model us after computers?
 
 BANN is a design system based on neural networks were humans work together, each on a very specific task, to design whatever they are set up.

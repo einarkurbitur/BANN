@@ -237,6 +237,7 @@ The Evaluator got the following instructions:
   This image is up to standards and is in many cases from the training set.
 
 Training Data:
+
 .. image:: images/Data/Evaluator/1.jpg
    :width: 100 px
 .. image:: images/Data/Evaluator/2.jpg
