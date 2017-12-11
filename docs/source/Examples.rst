@@ -20,6 +20,8 @@ The Data sorter got the following instructions:
 
   You should also save the files into a folder called Tracking, where you indicate which ones are original(marked blue) and which ones are created by the creator nodes (marked green).
 
+
+
 Creator Nodes
 -------------
 Creator 1
@@ -34,6 +36,29 @@ The Creator 1 got the following instructions:
   You work on file 1 - 2 - 3 - 4 in that order.
   Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a pdf in the folder evaluation.
 
+Training Data:
+.. image:: images/Data/Placement/1.jpg
+   :width: 100 px
+.. image:: images/Data/Placement/2.jpg
+   :width: 100 px
+.. image:: images/Data/Placement/3.jpg
+   :width: 100 px
+.. image:: images/Data/Placement/4.jpg
+   :width: 100 px
+.. image:: images/Data/Placement/5.jpg
+   :width: 100 px
+.. image:: images/Data/Placement/6.jpg
+   :width: 100 px
+.. image:: images/Data/Placement/7.jpg
+   :width: 100 px
+.. image:: images/Data/Placement/8.jpg
+   :width: 100 px
+.. image:: images/Data/Placement/9.jpg
+   :width: 100 px
+.. image:: images/Data/Placement/10.jpg
+   :width: 100 px
+.. image:: images/Data/Placement/11.jpg
+   :width: 100 px
 
 Creator 2
 ^^^^^^^^^
@@ -47,6 +72,30 @@ The Creator 2 got the following instructions:
   You work on file 2 - 1 - 4 - 3 in that order.
   Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a pdf in the folder evaluation.
 
+Training Data:
+.. image:: images/Data/Type/1.jpg
+   :width: 100 px
+.. image:: images/Data/Type/2.jpg
+   :width: 100 px
+.. image:: images/Data/Type/3.jpg
+   :width: 100 px
+.. image:: images/Data/Type/4.jpg
+   :width: 100 px
+.. image:: images/Data/Type/5.jpg
+   :width: 100 px
+.. image:: images/Data/Type/6.jpg
+   :width: 100 px
+.. image:: images/Data/Type/7.jpg
+   :width: 100 px
+.. image:: images/Data/Type/8.jpg
+   :width: 100 px
+.. image:: images/Data/Type/9.jpg
+   :width: 100 px
+.. image:: images/Data/Type/10.jpg
+   :width: 100 px
+.. image:: images/Data/Type/11.jpg
+   :width: 100 px
+
 Creator 3
 ^^^^^^^^^
 The Creator 3 got the following instructions:
@@ -59,6 +108,83 @@ The Creator 3 got the following instructions:
   You work on file 3 - 4 - 1 - 2 in that order.
   Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a pdf in the folder evaluation.
 
+Training Data::
+  We love the sky
+  BEINTO PROJECT
+  social donation project
+  2016
+  OPEN
+  SPACE
+  CHANGSEANG
+  2016
+  Open Space Changseang 2016
+  Luciano Lamanna
+  LSWHR 11 Dicembre
+  Neil Landstrumm
+  Stådlin Via Pacinotti 83
+  RUMM
+  NE
+  IL LAN
+  DST
+  EYES UP EYES UP EYES UP EYES UP
+  04.05.2017 04.05.2017 04.05.2017 04.05.2017
+  La Baite
+  Festival de Geneve
+  Batie.ch
+  02-17.09.2016
+  LORY D
+  5 HRS
+  LIVE SET
+  DONATO
+  ANDREA
+  LIVE SET
+  5 HRS
+  LSWHR
+  CIRC.
+  DOZZY
+  DORIA
+  28.07
+  02 JUNIO
+  JARDIN ESD
+  17:00H
+  EGIPTO PSICODÉLICO
+  EGIPTO PSICODELICO
+  DJS
+  HOUDINI + PANPANNISCUS
+  SUMM PARTY
+  PARTY
+  Juan
+  Atkins
+  Juan
+  Atkins
+  Juan
+  Atkins
+  Lswhr Sabato 20 Febbraio 23:30 - 05:00
+  Main Room: Juan Atkins, Ben Saadi, Gattonero Ex Dogana Via dello Scalo S. Lorenzo 10
+  Bar Room: LucianoLamanna, FilippoScorcucchi
+  Castagne
+  19e
+  18.04.15
+  20h-5h30
+  Paris
+  parisienne
+  POWE
+  RJAM
+  POWE
+  RJAM
+  Yoga Underground
+  (9) - (12) PM
+  48272016
+  400 Freedom Blvd
+  200 W Provo, UT
+  84601
+  FAN
+  CAS
+  SAN
+  DRA
+  JET
+  TEN
+
 Creator 4
 ^^^^^^^^^
 The Creator 4 got the following instructions:
@@ -70,6 +196,30 @@ The Creator 4 got the following instructions:
   (1 round) at the time
   You work on file 4 - 3 - 2 - 1 in that order.
   Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a pdf in the folder evaluation.
+
+Training Data:
+.. image:: images/Data/Color/1.jpg
+   :width: 100 px
+.. image:: images/Data/Color/2.jpg
+   :width: 100 px
+.. image:: images/Data/Color/3.jpg
+   :width: 100 px
+.. image:: images/Data/Color/4.jpg
+   :width: 100 px
+.. image:: images/Data/Color/5.jpg
+   :width: 100 px
+.. image:: images/Data/Color/6.jpg
+   :width: 100 px
+.. image:: images/Data/Color/7.jpg
+   :width: 100 px
+.. image:: images/Data/Color/8.jpg
+   :width: 100 px
+.. image:: images/Data/Color/9.jpg
+   :width: 100 px
+.. image:: images/Data/Color/10.jpg
+   :width: 100 px
+.. image:: images/Data/Color/11.jpg
+   :width: 100 px
 
 Evaluator
 ---------
@@ -85,6 +235,30 @@ The Evaluator got the following instructions:
 
   **Green:**
   This image is up to standards and is in many cases from the training set.
+
+Training Data:
+.. image:: images/Data/Evaluator/1.jpg
+   :width: 100 px
+.. image:: images/Data/Evaluator/2.jpg
+   :width: 100 px
+.. image:: images/Data/Evaluator/3.jpg
+   :width: 100 px
+.. image:: images/Data/Evaluator/4.jpg
+   :width: 100 px
+.. image:: images/Data/Evaluator/5.jpg
+   :width: 100 px
+.. image:: images/Data/Evaluator/6.jpg
+   :width: 100 px
+.. image:: images/Data/Evaluator/7.jpg
+   :width: 100 px
+.. image:: images/Data/Evaluator/8.jpg
+   :width: 100 px
+.. image:: images/Data/Evaluator/9.jpg
+   :width: 100 px
+.. image:: images/Data/Evaluator/10.jpg
+   :width: 100 px
+.. image:: images/Data/Evaluator/11.jpg
+   :width: 100 px
 
 Progress Tracker
 ----------------
