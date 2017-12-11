@@ -91,8 +91,10 @@ html_theme = 'alabaster'
 #
 html_theme_options = {
     'fixed_sidebar': True,
-    'font_family': 'Roboto Mono',
-    'head_font_family': 'Roboto Mono'
+    'font_family': 'Roboto',
+    'head_font_family': 'Roboto Mono',
+    'font_size': '18px',
+    'page_width': '80%'
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -107,7 +109,7 @@ html_static_path = ['nstatic']
 # refs: http://alabaster.readthedocs.io/en/latest/installation.html#sidebars
 html_sidebars = {
     '**': [
-        'relations.html',  # needs 'show_related': True theme option to display
+        'navigation.html',  # needs 'show_related': True theme option to display
         'searchbox.html',
     ]
 }

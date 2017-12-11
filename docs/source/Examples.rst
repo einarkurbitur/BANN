@@ -375,62 +375,62 @@ Set 1
 ^^^^^
 
 .. image:: images/poster/set1/1.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set1/2.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set1/3.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set1/4.jpg
-   :width: 250 px
+   :width: 200 px
 
 
 Set 2
 ^^^^^
 
 .. image:: images/poster/set2/1.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set2/2.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set2/3.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set2/4.jpg
-   :width: 250 px
-   
+   :width: 200 px
+
 Set 3
 ^^^^^
 
 .. image:: images/poster/set3/1.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set3/2.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set3/3.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set3/4.jpg
-   :width: 250 px
+   :width: 200 px
 
 Set 4
 ^^^^^
 
 .. image:: images/poster/set4/1.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set4/2.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set4/3.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set4/4.jpg
-   :width: 250 px
+   :width: 200 px
 
 Set 5
 ^^^^^
 
 .. image:: images/poster/set5/1.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set5/2.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set5/3.jpg
-   :width: 250 px
+   :width: 200 px
 .. image:: images/poster/set5/4.jpg
-   :width: 250 px
+   :width: 200 px
 
 Video
 -----
