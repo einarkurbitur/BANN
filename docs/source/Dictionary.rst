@@ -68,8 +68,7 @@ Dictionary
 
 **Creator**
 
-* Creates new imagery based on the training data. This is the main output of
-the network. Their goal is to improve and fool the Evaluator.
+* Creates new imagery based on the training data. This is the main output of the network. Their goal is to improve and fool the Evaluator.
 
 
 **Evaluator**
