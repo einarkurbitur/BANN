@@ -37,6 +37,7 @@ The Creator 1 got the following instructions:
   Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a pdf in the folder evaluation.
 
 Training Data:
+
 .. image:: images/Data/Placement/1.jpg
    :width: 100 px
 .. image:: images/Data/Placement/2.jpg
@@ -73,6 +74,7 @@ The Creator 2 got the following instructions:
   Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a pdf in the folder evaluation.
 
 Training Data:
+
 .. image:: images/Data/Type/1.jpg
    :width: 100 px
 .. image:: images/Data/Type/2.jpg
@@ -109,6 +111,7 @@ The Creator 3 got the following instructions:
   Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a pdf in the folder evaluation.
 
 Training Data::
+
   We love the sky
   BEINTO PROJECT
   social donation project
@@ -198,6 +201,7 @@ The Creator 4 got the following instructions:
   Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a pdf in the folder evaluation.
 
 Training Data:
+
 .. image:: images/Data/Color/1.jpg
    :width: 100 px
 .. image:: images/Data/Color/2.jpg
@@ -237,6 +241,7 @@ The Evaluator got the following instructions:
   This image is up to standards and is in many cases from the training set.
 
 Training Data:
+
 .. image:: images/Data/Evaluator/1.jpg
    :width: 100 px
 .. image:: images/Data/Evaluator/2.jpg
