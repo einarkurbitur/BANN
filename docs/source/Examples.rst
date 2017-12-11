@@ -422,8 +422,6 @@ Set 5
 
 Video
 -----
-.. raw:: html
-   <iframe src="https://player.vimeo.com/video/246721039" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 .. Gondola drawing
