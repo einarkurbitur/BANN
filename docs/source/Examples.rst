@@ -38,27 +38,27 @@ The Creator 1 got the following instructions:
 
 Training Data:
 
-.. image:: images/Data/Placement/1.jpg
+.. image:: images/Data/Placement/1.png
    :width: 100 px
-.. image:: images/Data/Placement/2.jpg
+.. image:: images/Data/Placement/2.png
    :width: 100 px
-.. image:: images/Data/Placement/3.jpg
+.. image:: images/Data/Placement/3.png
    :width: 100 px
-.. image:: images/Data/Placement/4.jpg
+.. image:: images/Data/Placement/4.png
    :width: 100 px
-.. image:: images/Data/Placement/5.jpg
+.. image:: images/Data/Placement/5.png
    :width: 100 px
-.. image:: images/Data/Placement/6.jpg
+.. image:: images/Data/Placement/6.png
    :width: 100 px
-.. image:: images/Data/Placement/7.jpg
+.. image:: images/Data/Placement/7.png
    :width: 100 px
-.. image:: images/Data/Placement/8.jpg
+.. image:: images/Data/Placement/8.png
    :width: 100 px
-.. image:: images/Data/Placement/9.jpg
+.. image:: images/Data/Placement/9.png
    :width: 100 px
-.. image:: images/Data/Placement/10.jpg
+.. image:: images/Data/Placement/10.png
    :width: 100 px
-.. image:: images/Data/Placement/11.jpg
+.. image:: images/Data/Placement/11.png
    :width: 100 px
 
 Creator 2
@@ -75,27 +75,27 @@ The Creator 2 got the following instructions:
 
 Training Data:
 
-.. image:: images/Data/Type/1.jpg
+.. image:: images/Data/Type/1.png
    :width: 100 px
-.. image:: images/Data/Type/2.jpg
+.. image:: images/Data/Type/2.png
    :width: 100 px
-.. image:: images/Data/Type/3.jpg
+.. image:: images/Data/Type/3.png
    :width: 100 px
-.. image:: images/Data/Type/4.jpg
+.. image:: images/Data/Type/4.png
    :width: 100 px
-.. image:: images/Data/Type/5.jpg
+.. image:: images/Data/Type/5.png
    :width: 100 px
-.. image:: images/Data/Type/6.jpg
+.. image:: images/Data/Type/6.png
    :width: 100 px
-.. image:: images/Data/Type/7.jpg
+.. image:: images/Data/Type/7.png
    :width: 100 px
-.. image:: images/Data/Type/8.jpg
+.. image:: images/Data/Type/8.png
    :width: 100 px
-.. image:: images/Data/Type/9.jpg
+.. image:: images/Data/Type/9.png
    :width: 100 px
-.. image:: images/Data/Type/10.jpg
+.. image:: images/Data/Type/10.png
    :width: 100 px
-.. image:: images/Data/Type/11.jpg
+.. image:: images/Data/Type/11.png
    :width: 100 px
 
 Creator 3
@@ -202,27 +202,27 @@ The Creator 4 got the following instructions:
 
 Training Data:
 
-.. image:: images/Data/Color/1.jpg
+.. image:: images/Data/Color/1.png
    :width: 100 px
-.. image:: images/Data/Color/2.jpg
+.. image:: images/Data/Color/2.png
    :width: 100 px
-.. image:: images/Data/Color/3.jpg
+.. image:: images/Data/Color/3.png
    :width: 100 px
-.. image:: images/Data/Color/4.jpg
+.. image:: images/Data/Color/4.png
    :width: 100 px
-.. image:: images/Data/Color/5.jpg
+.. image:: images/Data/Color/5.png
    :width: 100 px
-.. image:: images/Data/Color/6.jpg
+.. image:: images/Data/Color/6.png
    :width: 100 px
-.. image:: images/Data/Color/7.jpg
+.. image:: images/Data/Color/7.png
    :width: 100 px
-.. image:: images/Data/Color/8.jpg
+.. image:: images/Data/Color/8.png
    :width: 100 px
-.. image:: images/Data/Color/9.jpg
+.. image:: images/Data/Color/9.png
    :width: 100 px
-.. image:: images/Data/Color/10.jpg
+.. image:: images/Data/Color/10.png
    :width: 100 px
-.. image:: images/Data/Color/11.jpg
+.. image:: images/Data/Color/11.png
    :width: 100 px
 
 Evaluator
@@ -242,27 +242,27 @@ The Evaluator got the following instructions:
 
 Training Data:
 
-.. image:: images/Data/Evaluator/1.jpg
+.. image:: images/Data/Evaluator/1.png
    :width: 100 px
-.. image:: images/Data/Evaluator/2.jpg
+.. image:: images/Data/Evaluator/2.png
    :width: 100 px
-.. image:: images/Data/Evaluator/3.jpg
+.. image:: images/Data/Evaluator/3.png
    :width: 100 px
-.. image:: images/Data/Evaluator/4.jpg
+.. image:: images/Data/Evaluator/4.png
    :width: 100 px
-.. image:: images/Data/Evaluator/5.jpg
+.. image:: images/Data/Evaluator/5.png
    :width: 100 px
-.. image:: images/Data/Evaluator/6.jpg
+.. image:: images/Data/Evaluator/6.png
    :width: 100 px
-.. image:: images/Data/Evaluator/7.jpg
+.. image:: images/Data/Evaluator/7.png
    :width: 100 px
-.. image:: images/Data/Evaluator/8.jpg
+.. image:: images/Data/Evaluator/8.png
    :width: 100 px
-.. image:: images/Data/Evaluator/9.jpg
+.. image:: images/Data/Evaluator/9.png
    :width: 100 px
-.. image:: images/Data/Evaluator/10.jpg
+.. image:: images/Data/Evaluator/10.png
    :width: 100 px
-.. image:: images/Data/Evaluator/11.jpg
+.. image:: images/Data/Evaluator/11.png
    :width: 100 px
 
 Progress Tracker
@@ -427,6 +427,8 @@ Set 5
 
 Video
 -----
+.. raw:: html
+
 
 
 .. Gondola drawing
