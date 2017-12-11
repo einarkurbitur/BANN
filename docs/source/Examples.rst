@@ -281,8 +281,9 @@ The Progress Tracker got the following instructions:
   This image is up to standards and is in many cases from the training set.
 
   The results will be x correct guesses out of 8 images. You will also have to track the progress between sets.
+
 Session
-******
+*******
 .. image:: images/chart.png
 
 The session was made up of 5 sets::
@@ -372,6 +373,7 @@ Images
 
 Set 1
 ^^^^^
+
 .. image:: images/poster/set1/1.jpg
    :width: 250 px
 .. image:: images/poster/set1/2.jpg
@@ -384,6 +386,7 @@ Set 1
 
 Set 2
 ^^^^^
+
 .. image:: images/poster/set2/1.jpg
    :width: 250 px
 .. image:: images/poster/set2/2.jpg
@@ -392,8 +395,10 @@ Set 2
    :width: 250 px
 .. image:: images/poster/set2/4.jpg
    :width: 250 px
+   
 Set 3
 ^^^^^
+
 .. image:: images/poster/set3/1.jpg
    :width: 250 px
 .. image:: images/poster/set3/2.jpg
@@ -405,6 +410,7 @@ Set 3
 
 Set 4
 ^^^^^
+
 .. image:: images/poster/set4/1.jpg
    :width: 250 px
 .. image:: images/poster/set4/2.jpg
@@ -416,6 +422,7 @@ Set 4
 
 Set 5
 ^^^^^
+
 .. image:: images/poster/set5/1.jpg
    :width: 250 px
 .. image:: images/poster/set5/2.jpg
@@ -427,9 +434,6 @@ Set 5
 
 Video
 -----
-.. raw:: html
-   <iframe src="https://player.vimeo.com/video/246721039" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 
 
 
