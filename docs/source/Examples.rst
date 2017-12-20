@@ -5,7 +5,7 @@ Poster design
 #############
 Goal
 ****
-The goal for this exaple was to create posters. The training data was fetched from https://trendlist.org
+The goal for this example was to create posters. The training data was fetched from https://trendlist.org
 
 
 Nodes
@@ -34,7 +34,7 @@ The Creator 1 got the following instructions:
   Each set you work on 1 file for 30 seconds
   (1 round) at the time.
   You work on file 1 - 2 - 3 - 4 in that order.
-  Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a pdf in the folder evaluation.
+  Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a PDF in the folder evaluation.
 
 Training Data:
 
@@ -71,7 +71,7 @@ The Creator 2 got the following instructions:
   Each set you work on 1 file for 30 seconds
   (1 round) at the time.
   You work on file 2 - 1 - 4 - 3 in that order.
-  Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a pdf in the folder evaluation.
+  Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a PDF in the folder evaluation.
 
 Training Data:
 
@@ -108,7 +108,7 @@ The Creator 3 got the following instructions:
   Each set you work on 1 file for 30 seconds
   (1 round) at the time.
   You work on file 3 - 4 - 1 - 2 in that order.
-  Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a pdf in the folder evaluation.
+  Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a PDF in the folder evaluation.
 
 Training Data::
 
@@ -198,7 +198,7 @@ The Creator 4 got the following instructions:
   Each set you work on 1 file for 30 seconds
   (1 round) at the time
   You work on file 4 - 3 - 2 - 1 in that order.
-  Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a pdf in the folder evaluation.
+  Between rounds there is a break. You should use that to save your file and open the next one. After the 4th round please save the file you are working on also as a PDF in the folder evaluation.
 
 Training Data:
 
